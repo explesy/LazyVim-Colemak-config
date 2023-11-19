@@ -1,4 +1,13 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+[LazyVim](https://github.com/LazyVim/LazyVim).
+Official [documentation](https://lazyvim.github.io/installation) here.
+
+This config changes keys to Colemak keyboard layout
+```
+h -> h 
+j -> n
+k -> e
+l -> i
+```
+
