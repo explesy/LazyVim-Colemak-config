@@ -11,7 +11,7 @@ return {
   --     vim.g.gruvbox_flat_style = 'dark'
   --   end
   -- },
-  -- { "ellisonleao/gruvbox.nvim" },
+  { "ellisonleao/gruvbox.nvim" },
   -- { "sainnhe/everforest" },
   { "sainnhe/edge" },
   { "sainnhe/sonokai" },
